@@ -2,7 +2,7 @@
 
 ## **Contacts**
 
-* Telegram: [@stclamp](t.me/stclamp)
+* Telegram: [@stclamp](https://t.me/stclamp)
 * Email: [whatisclamp@gmail.com]
 * Phone: +380952453087
 
