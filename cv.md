@@ -2,7 +2,7 @@
 
 ## **Contacts**
 
-* Telegram: [t.me/stclamp](@stclamp)
+* Telegram: [@stclamp](t.me/stclamp)
 * Email: [whatisclamp@gmail.com]
 * Phone: +380952453087
 
@@ -51,5 +51,5 @@ close.addEventListener('click', () => {
 
 ```
 ## **English**
--
+
 Now I Have A1 English level
