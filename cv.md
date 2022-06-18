@@ -1,18 +1,18 @@
 # **Pavel Evtushenko**
--
+
 ## **Contacts**
--
+
 * Telegram: [t.me/stclamp](@stclamp)
 * Email: [whatisclamp@gmail.com]
 * Phone: +380952453087
 
 ## **About**
--
+
 Hi! I'm Pavel. I'm from Ukraine, Donetsk region. Now I study at RS School. 
 My dream is to become a professional in front-end development. I am good at creating websites. I know basic JavaScript. And every day I improve my knowledge
 
 ## **Skills**
--
+
 * HTML
 * CSS
 * Native JS
@@ -20,7 +20,7 @@ My dream is to become a professional in front-end development. I am good at crea
 * Git
 
 ## **My Code Example**
--
+
 ```
 
 const humburgerImg = document.querySelector('.humburger__img');
@@ -50,7 +50,6 @@ close.addEventListener('click', () => {
 });
 
 ```
-
 ## **English**
 -
 Now I Have A1 English level
