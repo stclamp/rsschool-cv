@@ -1,10 +1,10 @@
 # Pavel Evtushenko
 
-#### Junior Front-end Developer
+##### Junior Front-end Developer
 
 ---
 
-## Contact to me:
+### Contact to me:
 
 - Phone: [+380952453087](tel:+380952453087)
 - Email: [whatisclamp@gmail.com](mailto:whatisclamp@gmail.com)
@@ -13,13 +13,13 @@
 
 ---
 
-## About me
+### About me
 
 I am currently studying at RSSchool on Front-end developer. Successfully completed RSSchool Stage 0 Front-end. Also completed the Udemy Web-Developer 2021 course.
 
 ---
 
-## Skills
+### Skills
 
 - HTML
 - CSS
@@ -28,11 +28,11 @@ I am currently studying at RSSchool on Front-end developer. Successfully complet
 
 ---
 
-## Experience
+### Experience
 
 ---
 
-## Code Example
+### Code Example
 
 **This is solution Kata from Codewars:** In this kata you have to implement a base converter, which converts positive integers between arbitrary bases / alphabets. Here are some pre-defined alphabets:
 
@@ -70,7 +70,7 @@ function convert(input, source, target) {
 
 ---
 
-## Courses
+### Courses
 
 - Udemy Web-developer 2021:
   ![Udemy course](Udemy.jpg)
@@ -78,3 +78,11 @@ function convert(input, source, target) {
 - RSSchool Course «JavaScript/Front-end. Stage 0»
 
 - RSSchool Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+
+### Languages
+
+- English (A1)
+- Ukrainian (native)
+- Russian (native)
