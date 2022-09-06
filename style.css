@@ -1,0 +1,207 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+img {
+  width: 800px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.avatar img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.left-side {
+  padding: 60px;
+  background-color: #323b4c;
+  width: 35%;
+  color: #fff;
+  padding-left: 55px;
+}
+
+.left-title {
+  font-size: 32px;
+  position: relative;
+  padding-bottom: 15px;
+  margin-top: 40px;
+}
+
+.left-title::after {
+  content: "";
+  position: absolute;
+  right: -40px;
+  bottom: 0;
+  width: 111%;
+  height: 2px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
+}
+
+.contacts-link {
+  margin-top: 25px;
+  font-weight: 700;
+  font-size: 25px;
+  transition: 0.5s ease;
+}
+
+.contacts-link a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  font-size: 17px;
+  margin-top: 5px;
+  font-weight: 400;
+  transition: 0.5s ease;
+}
+
+.contacts-link a:hover {
+  text-decoration: underline;
+}
+
+.education-year {
+  margin-top: 20px;
+  font-size: 17px;
+}
+
+.education-degree {
+  font-size: 22px;
+  margin-top: 10px;
+  font-weight: 700;
+}
+
+.education-university {
+  margin-top: 10px;
+}
+
+.skills-list {
+  margin-top: 20px;
+}
+
+.skills-item {
+  margin-bottom: 10px;
+  padding-left: 25px;
+  position: relative;
+}
+
+.skills-item::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 5px;
+  height: 5px;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.language .left-title {
+  margin-bottom: 20px;
+}
+
+.language-text {
+  margin-bottom: 15px;
+}
+
+.right-side {
+  color: #323b4c;
+}
+.main-title {
+  margin-top: 50px;
+  font-size: 75px;
+  margin-bottom: 0;
+}
+
+.main-title span {
+  font-weight: 400;
+}
+
+.subtitle {
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 0;
+}
+
+.about {
+  margin-top: 20px;
+  color: rgba(50, 59, 76, 0.8);
+}
+
+.courses {
+  margin-top: 25px;
+}
+
+.right-title {
+  font-size: 32px;
+  position: relative;
+  padding-bottom: 15px;
+  margin-top: 50px;
+}
+
+.right-title::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  border-radius: 10px;
+  background-color: rgba(50, 59, 76, 0.6);
+}
+
+.course-descr {
+  margin-top: 30px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.course-descr::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #323b4c;
+}
+
+.course-name {
+  font-size: 28px;
+}
+
+.course-year {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.code p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 22px;
+  line-height: 35px;
+}
